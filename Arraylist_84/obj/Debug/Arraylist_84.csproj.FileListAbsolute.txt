@@ -1,0 +1,15 @@
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\bin\Debug\Arraylist_84.exe.config
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\bin\Debug\Arraylist_84.exe
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\bin\Debug\Arraylist_84.pdb
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.csprojAssemblyReference.cache
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\MainWindow.g.cs
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\App.g.cs
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84_MarkupCompile.cache
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84_MarkupCompile.lref
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\MainWindow.baml
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.g.resources
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.Properties.Resources.resources
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.csproj.GenerateResource.cache
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.csproj.CoreCompileInputs.cache
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.exe
+C:\Users\dellb\source\repos\Arraylist_84\Arraylist_84\obj\Debug\Arraylist_84.pdb

@@ -36,7 +36,7 @@ namespace Arraylist_84
                 array_list.Add(txt_data.Text);
                 txt_data.Clear();
 
-             txt_data.Text = "";
+             
         }
 
         private void btn_remove_Click(object sender, RoutedEventArgs e)
